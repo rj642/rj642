@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there, I'm [Rahul Jha](https://github.com/rj642) 👋
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://in.linkedin.com/in/rahulj-642)
 
 <!--
 **rj642/rj642** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
