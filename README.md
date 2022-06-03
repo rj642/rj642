@@ -12,11 +12,11 @@ I'm primarily an Android Application Developer 💻 and also learning ML concept
 
 ---
 
-![Top language](https://github-readme-stats.vercel.app/api/top-langs/?username=rj642&bg_color=0,000000,53346D&title_color=fff&text_color=fff)
+![Rahul's Top language](https://github-readme-stats.vercel.app/api/top-langs/?username=rj642&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ---
 
-![stats](https://github-readme-stats.vercel.app/api?username=rj642&bg_color=0,000000,53346D&title_color=fff&text_color=fff)
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rj642&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ---
 <!--
