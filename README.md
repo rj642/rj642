@@ -10,7 +10,15 @@ I'm primarily an Android Application Developer 💻 and also learning ML concept
 - Scrawling through Stackoverflow is basically everyone's job so does mine!
 - Updating with a newer tech stacks and architectural component is what makes me more curious 🙂
 
+---
 
+![Top language](https://github-readme-stats.vercel.app/api/top-langs/?username=rj642&bg_color=0,000000,53346D&title_color=fff&text_color=fff)
+
+---
+
+![stats](https://github-readme-stats.vercel.app/api?username=rj642&bg_color=0,000000,53346D&title_color=fff&text_color=fff)
+
+---
 <!--
 **rj642/rj642** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
