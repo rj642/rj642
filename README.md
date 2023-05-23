@@ -38,6 +38,15 @@ I'm primarily an Android Developer and along with that I can code in Swift, Java
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rj642&repo=linkedin_clone&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
+<br/>
+
+### React Native Learning Track
+*I've created this repository for learning react native at a faster pace along with good code practice, if you find any error or bad code which is not upto the mark, then thanks for pointing it out, just comment out that bad piece of code and add a better one, which will be better for me and others who will go through this repository in future*
+
+<a href="https://github.com/rj642/react_native_learning_track">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rj642&repo=react_native_learning_track&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
 ---
 <!--
 **rj642/rj642** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
