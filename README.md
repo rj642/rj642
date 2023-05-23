@@ -47,6 +47,13 @@ I'm primarily an Android Developer and along with that I can code in Swift, Java
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rj642&repo=react_native_learning_track&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
+### Pytranslator (Python Translator)
+*This repository is created to demonstarte the standard use of FastAPI along with googletrans for translating text from source language to destination language, feel free to add your changes by forking this project and creating a pull request*
+
+<a href="https://github..com/rj642/pytranslator">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rj642&repo=pytranslator&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
 ---
 <!--
 **rj642/rj642** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
