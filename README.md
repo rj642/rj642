@@ -19,6 +19,26 @@ I'm primarily an Android Developer and along with that I can code in Swift, Java
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rj642&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ---
+
+## Open for contribution
+
+### Instant Chat
+*This one will follow whatsapp messaging architecture, i.e. we'll locally store all the messages and that will be encrypted. Once user receives a message or download any attachment that has been sent then those messages will be wiped out from firebase db*
+
+<a href="https://github.com/rj642/instant_chat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rj642&repo=instant_chat&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+  
+<br/>
+
+### LinkedIn Clone
+*Thinking of refractoring this one into a new job posting app, which will have more features. Suggest ideas based on your thinking, and we'll make this one much better*
+
+<a href="https://github.com/rj642/linkedin_clone">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rj642&repo=linkedin_clone&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+---
 <!--
 **rj642/rj642** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
